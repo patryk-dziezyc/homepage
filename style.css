@@ -1,5 +1,5 @@
 body { 
-    background: #050505;
+    background: #ddda08;
   }
 
 section {
@@ -19,15 +19,15 @@ footer {
 }
 
 .hotpink-header {
-    color: rgb(97, 12, 55);
+    color:hotpink;
 }
 
 #top {
-    background: #802828;
+    background: #ce4506;
 }
 a {
-    color: #D95D39;
+    color: rgb(221, 125, 208);
 }
 nav a {
-    color: #F18805;
+    color: rgb(241, 5, 123);
 }
